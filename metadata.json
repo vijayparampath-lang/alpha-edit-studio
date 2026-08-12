@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Edit Studio",
+  "description": "Luxury post-production & creative agency portfolio for Alpha Edit Studio - Video Editing, Graphic Design, and Premium Branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

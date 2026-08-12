@@ -1,0 +1,21 @@
+{
+  "name": "Alpha Edit Studio | Luxury Agency Portfolio",
+  "short_name": "AlphaEdit",
+  "description": "Official portfolio of Alpha Edit Studio, specializing in luxury post-production, branding, and video editing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/final-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/final-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
